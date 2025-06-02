@@ -18,6 +18,9 @@
 - `frontend/` : 간단한 웹 프론트엔드
 - `data/` : (git에는 포함되지 않음) 강의계획서 원본 데이터
 - `.gitignore` : 불필요한 파일/폴더 제외 설정
+- `transformer_question_classifier` : 질문 유형 분류
+- `prompts.py` : 질문 유형에 따라 다른 프롬프트
+- `multi_chain_recommender.py` : 질문 유형에 따른 프롬프트 선택해서 벡터DB에서 검색
 
 ## 설치 및 실행 방법
 
