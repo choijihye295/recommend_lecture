@@ -115,11 +115,8 @@ if st.button("추천 받기", type="primary"):
                     st.markdown("### 💬 추천 결과")
                     st.write(data["answer"])
                     
-                    # 추천 강의 표시
-                    st.markdown("### 📚 추천 강의")
-                    for course in data["sources"]:
-                        with st.container():
-                            display_course_info(course)
+                    # 추천 강의 표시 > 삭제
+
                 else:
                     st.error(f"API 요청 실패 (상태 코드: {response.status_code})")
                     st.error(f"오류 메시지: {response.text}")

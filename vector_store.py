@@ -7,6 +7,7 @@ from data_processor import Course, Syllabus
 import json
 import os
 from dotenv import load_dotenv
+import shutil
 
 # 환경 변수 로드
 load_dotenv()
@@ -36,7 +37,7 @@ def get_course_documents():
     try:
         courses = session.query(Course).all()
         documents = []
-        
+
         for course in courses:
             # 기본 정보
             basic_info = json.loads(course.syllabus.basic_info)
@@ -45,7 +46,7 @@ def get_course_documents():
             evaluation = json.loads(course.syllabus.evaluation)
             textbook_info = json.loads(course.syllabus.textbook_info)
             core_competencies = json.loads(course.syllabus.core_competencies)
-            
+
             # 텍스트 생성 (JSON 구조 반영)
             text = f"""
             강의 기본 정보:
@@ -69,27 +70,12 @@ def get_course_documents():
             - 강의실: {course_info.get('classroom', '')}
             - 요일/시간: {course_info.get('schedule', '')}
 
-            평가 방법:
-            - A 비율: {evaluation.get('a_ratio', '')}
-            - 평가방법: {evaluation.get('evaluation_method', '')}
-            - 중간고사: {evaluation.get('midterm', '')}
-            - 기말고사: {evaluation.get('final', '')}
-            - 출석: {evaluation.get('attendance', '')}
-            - 과제: {evaluation.get('assignment', '')}
-            - 기타: {evaluation.get('other', '')}
-
             교재 정보:
             - 주교재: {textbook_info.get('main_textbook', '')}
             - 참고자료: {textbook_info.get('reference', '')}
 
-            핵심역량:
-            - 소통역량: {core_competencies.get('communication', '')}
-            - 창의역량: {core_competencies.get('creativity', '')}
-            - 인성역량: {core_competencies.get('personality', '')}
-            - 실무역량: {core_competencies.get('practical', '')}
-            - 도전역량: {core_competencies.get('challenge', '')}
             """
-            
+
             # 메타데이터 (None 값을 빈 문자열로 변환)
             metadata = {
                 "subject_code": course.subject_code or "",
@@ -109,21 +95,28 @@ def get_course_documents():
                 "classroom": course_info.get('classroom', '') or "",
                 "schedule": course_info.get('schedule', '') or ""
             }
-            
+
             documents.append({"text": text, "metadata": metadata})
-        
+
         return documents
     finally:
         session.close()
 
 def create_vector_store():
+    #기존 chroma db 삭제
+    if os.path.exists(CHROMA_DB_DIR):
+        print("기존 Chroma DB가 존재합니다. 삭제 후 새로 생성합니다.")
+        shutil.rmtree(CHROMA_DB_DIR)
+    else:
+        print("Chroma DB 디렉토리가 존재하지 않습니다. 새로 생성합니다.")
+
     """VectorDB 생성"""
     # 문서 가져오기
     documents = get_course_documents()
     
     # 텍스트 분할 (청크 크기를 500으로 감소)
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,  # 청크 크기 감소
+        chunk_size=300,  # 청크 크기 감소 500 > 300
         chunk_overlap=100,  # 오버랩 감소
         length_function=len,
         separators=["\n\n", "\n", ".", "!", "?", ",", " ", ""]
@@ -184,8 +177,8 @@ def query_similar_courses(query_text, n_results=5):
                 if subject_name in seen_subjects:
                     continue
                 
-                # 유사도 점수가 너무 낮으면 건너뛰기 (0.5 이상만 포함)
-                if float(score) < 0.5:
+                # 유사도 점수가 너무 낮으면 건너뛰기 (0.5 이상만 포함 > 0.8이상만 포함)
+                if float(score) < 0.7:
                     continue
                 
                 # 결과 추가
@@ -210,8 +203,8 @@ def query_similar_courses(query_text, n_results=5):
                     if subject_name in seen_subjects:
                         continue
                     
-                    # 임계값을 0.3으로 낮춤
-                    if float(score) < 0.3:
+                    # 임계값을 0.3으로 낮춤 > 0.5
+                    if float(score) < 0.5:
                         continue
                     
                     result = {

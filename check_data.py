@@ -1,12 +1,23 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-from data_processor import Course, Syllabus
+from data_processor import Base, Course, Syllabus
 import json
+import os
+from data_processor import Base  # 테이블 정의 포함
+
 
 # 데이터베이스 설정
+'''
 DATABASE_URL = "sqlite:///course_recommender.db"
 engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
+'''
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATABASE_URL = f"sqlite:///{os.path.join(BASE_DIR, 'course_recommender.db')}"
+engine = create_engine(DATABASE_URL)
+Session = sessionmaker(bind=engine)
+
+Base.metadata.create_all(engine)  # 테이블 생성
 
 def print_course_info(course):
     """강의 정보 출력"""
@@ -55,6 +66,7 @@ def print_course_info(course):
     print(f"참고자료: {textbook_info.get('reference', '')}")
     
     # 핵심역량
+
     core_competencies = json.loads(course.syllabus.core_competencies)
     print("\n[핵심역량]")
     print(f"소통역량: {core_competencies.get('communication', '')}")
@@ -64,8 +76,10 @@ def print_course_info(course):
     print(f"도전역량: {core_competencies.get('challenge', '')}")
     print("="*50)
 
+
 def main():
     session = Session()
+    print("DB 위치:", os.path.join(BASE_DIR, 'course_recommender.db'))
     try:
         # 전체 강의 수 확인
         total_courses = session.query(Course).count()

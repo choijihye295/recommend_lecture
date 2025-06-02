@@ -14,6 +14,8 @@ import traceback
 from vector_store import query_similar_courses
 import json
 
+from multi_chain_recommender import MultiChainRecommender #멀티체인
+
 # 로깅 설정
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -21,6 +23,9 @@ logger = logging.getLogger(__name__)
 # 환경 변수 로드
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+#멀티체인
+recommender = MultiChainRecommender()
 
 if not OPENAI_API_KEY:
     raise ValueError("OPENAI_API_KEY가 설정되지 않았습니다. .env 파일을 확인해주세요.")
@@ -128,79 +133,43 @@ class Query(BaseModel):
 @app.post("/api/recommend")
 async def recommend_courses(query: Query):
     try:
-        # 유사한 강의 검색
-        similar_courses = query_similar_courses(query.question, n_results=5)
-        
-        if not similar_courses:
-            return {
-                "answer": "죄송합니다. 관련된 강의를 찾을 수 없습니다.",
-                "sources": []
-            }
-        
-        # 검색된 강의 정보를 컨텍스트로 사용
-        context = "\n\n".join(similar_courses)
-        
-        # LLM을 사용하여 답변 생성
-        llm = ChatOpenAI(
-            model_name="gpt-3.5-turbo",
-            temperature=0.7,
-            openai_api_key=OPENAI_API_KEY
-        )
-        
-        # 프롬프트 생성
-        formatted_prompt = QA_PROMPT.format(
-            context=context,
-            question=query.question
-        )
-        
-        # 답변 생성
-        response = llm.invoke(formatted_prompt)
-        
-        # sources 정보 생성
+        # 멀티체인 기반 추천 실행
+        result = recommender.recommend(query.question)
+
+        # 응답 분리
+        answer = result.get("answer", "")
+        source_docs = result.get("source_documents", [])
+
+        # sources 정보 파싱 > 강의 정보 제공
         sources = []
-        for course in similar_courses:
-            try:
-                # JSON 형식의 강의 정보에서 필요한 정보 추출
-                course_info = json.loads(course)
-                metadata = course_info.get("metadata", {})
-                
-                # 강의 정보 추출
-                subject_name = metadata.get("subject_name", "")
-                professor = metadata.get("professor", "")
-                major = metadata.get("major", "")
-                course_type = metadata.get("course_type", "")
-                year = metadata.get("year", "")
-                professor_phone = metadata.get("professor_phone", "")
-                professor_email = metadata.get("professor_email", "")
-                office = metadata.get("office", "")
-                consultation_time = metadata.get("consultation_time", "")
-                classroom = metadata.get("classroom", "")
-                schedule = metadata.get("schedule", "")
-                
-                # 기본 정보가 있는 경우에만 추가
-                if subject_name or professor or major or course_type:
-                    sources.append({
-                        "subject_name": subject_name,
-                        "professor": professor,
-                        "major": f"{major} {year}" if major and year else major,
-                        "course_type": course_type,
-                        "professor_phone": professor_phone,
-                        "professor_email": professor_email,
-                        "office": office,
-                        "consultation_time": consultation_time,
-                        "classroom": classroom,
-                        "schedule": schedule,
-                        "content": course
-                    })
-            except Exception as e:
-                logger.error(f"강의 정보 파싱 중 오류 발생: {str(e)}")
+        seen_subjects = set() #중복 강의 제거?
+
+        for doc in source_docs:
+            metadata = doc.metadata
+            subject_name = metadata.get("subject_name", "")
+            if subject_name in seen_subjects:
                 continue
-        
-        return {
-            "answer": response.content,
-            "sources": sources
+            seen_subjects.add(subject_name)
+
+            sources.append({
+                "subject_name": subject_name,
+                "professor": metadata.get("professor", ""),
+                "major": f"{metadata.get('major', '')} {metadata.get('year', '')}",
+                "course_type": metadata.get("course_type", ""),
+                "professor_phone": metadata.get("professor_phone", ""),
+                "professor_email": metadata.get("professor_email", ""),
+                "office": metadata.get("office", ""),
+                "consultation_time": metadata.get("consultation_time", ""),
+                "classroom": metadata.get("classroom", ""),
+                "schedule": metadata.get("schedule", ""),
+                "content": doc.page_content  # 원문 전체
+            })
+
+        return { #최종 응답구조
+            "answer": answer,
+            #"sources": sources
         }
-        
+
     except Exception as e:
         logger.error(f"오류 발생: {str(e)}")
         logger.error(traceback.format_exc())
@@ -208,6 +177,7 @@ async def recommend_courses(query: Query):
             status_code=500,
             detail=f"서버 오류가 발생했습니다: {str(e)}"
         )
+
 
 if __name__ == "__main__":
     import uvicorn
