@@ -13,7 +13,8 @@
 
 - `data_processor.py` : 강의계획서 JSON 파일을 파싱하여 DB에 저장하는 스크립트
 - `vector_store.py` : 벡터 DB 관련 기능
-- `api.py` / `app.py` : API 서버
+- `api.py` : API 서버
+- `app.py` : streamlit 시각화
 - `check_data.py` : DB에 저장된 강의 정보 확인용 스크립트
 - `frontend/` : 간단한 웹 프론트엔드
 - `data/` : (git에는 포함되지 않음) 강의계획서 원본 데이터
@@ -37,10 +38,6 @@
 
 3. **API 서버 실행**
     ```bash
-    python app.py
-    ```
-    또는
-    ```bash
     python api.py
     ```
 
@@ -49,8 +46,10 @@
     python check_data.py
     ```
 
-5. **프론트엔드 확인**
-    - `frontend/index.html` 파일을 브라우저에서 열기
+5. **streamlit 확인**
+      ```bash
+    streamlit run app.py  
+    ```
 
 ## 주의사항
 
