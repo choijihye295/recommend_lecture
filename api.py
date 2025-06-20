@@ -179,10 +179,12 @@ async def recommend_courses(query: Query):
         )
 
 
-if __name__ == "__main__":
+
+#if __name__ == "__main__":
     import uvicorn
     import os
 
     #port = int(os.environ.get("PORT", 8001))  # 로컬 실행 시엔 8000, Render에선 자동으로 PORT 할당됨
     #uvicorn.run("api:app", host="0.0.0.0", port=port)
-    #uvicorn.run(app, host="0.0.0.0", port=8001) 배포를 위해 주석처리
+    #uvicorn.run(app, host="0.0.0.0", port=8001) #배포를 위해 주석처리
+
