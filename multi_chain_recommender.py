@@ -16,7 +16,7 @@ class MultiChainRecommender:
         self.llm = ChatOpenAI(
             model_name="gpt-3.5-turbo",
             openai_api_key=OPENAI_API_KEY,
-            #max_tokens=512 #응답 길이 최대 토큰 제한
+            max_tokens=512 #응답 길이 최대 토큰 제한
         )
         self.memory = ConversationBufferMemory(
             memory_key="chat_history",
