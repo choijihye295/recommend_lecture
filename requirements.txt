@@ -8,3 +8,4 @@ langchain_community
 streamlit
 beautifulsoup4
 requests
+uvicorn
