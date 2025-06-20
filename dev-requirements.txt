@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+pandas
+openai
+python-dotenv
+requests
+beautifulsoup4
+chromadb
+langchain
+langchain-community
+langchain-openai
+pydantic
+transformers
+torch

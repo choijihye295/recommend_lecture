@@ -25,9 +25,9 @@ class MultiChainRecommender:
         )
 
         #질문 분류기 > 클래스 선택 가능
-        #self.classifier = QuestionClassifier() # 질문 분류하는 클래스 (미리 만들어둠. question_classifier.py)
+        self.classifier = QuestionClassifier() # 질문 분류하는 클래스 (미리 만들어둠. question_classifier.py)
 
-        self.classifier = TransformerQuestionClassifier() #트렌스포머로 보완한 클래스
+        #self.classifier = TransformerQuestionClassifier() #트렌스포머로 보완한 클래스
 
     def get_chain(self, question):
         q_type = self.classifier.classify(question)

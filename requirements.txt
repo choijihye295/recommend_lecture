@@ -13,4 +13,3 @@ langchain-community
 langchain-openai
 pydantic
 transformers
-torch
