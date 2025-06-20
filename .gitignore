@@ -41,10 +41,8 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-data/
 *.log
 .env
-chroma_db/
 
 # Python
 __pycache__/
