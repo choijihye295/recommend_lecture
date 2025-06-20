@@ -99,8 +99,8 @@ if st.button("추천 받기", type="primary"):
         with st.spinner("추천 강의를 생성하는 중..."):
             try:
                 # API 요청
-                api_url = "http://localhost:8001/api/recommend"
-                #api_url = "https://recommend-lecture.streamlit.app/"
+                #api_url = "http://localhost:8001/api/recommend"
+                api_url = "https://recommend-lecture.onrender.com"
                 st.info(f"API 서버에 요청 중... ({api_url})")
                 
                 response = requests.post(
