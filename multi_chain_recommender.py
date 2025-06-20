@@ -3,7 +3,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from question_classifier import QuestionClassifier
-from transformer_question_classifier import TransformerQuestionClassifier
+#from transformer_question_classifier import TransformerQuestionClassifier
 from prompts import RECOMMEND_PROMPT, INFO_PROMPT, CONDITION_PROMPT
 import os
 
