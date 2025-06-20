@@ -100,7 +100,7 @@ if st.button("추천 받기", type="primary"):
             try:
                 # API 요청
                 #api_url = "http://localhost:8001/api/recommend"
-                api_url = "https://recommend-lecture.onrender.com"
+                api_url = "https://recommend-lecture.onrender.com/api/recommend"
                 st.info(f"API 서버에 요청 중... ({api_url})")
                 
                 response = requests.post(
