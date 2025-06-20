@@ -15,7 +15,8 @@ class MultiChainRecommender:
         self.vectorstore = get_vector_store()
         self.llm = ChatOpenAI(
             model_name="gpt-3.5-turbo",
-            openai_api_key=OPENAI_API_KEY
+            openai_api_key=OPENAI_API_KEY,
+            max_tokens=512 #응답 길이 최대 토큰 제한
         )
         self.memory = ConversationBufferMemory(
             memory_key="chat_history",
@@ -37,7 +38,7 @@ class MultiChainRecommender:
         }.get(q_type, RECOMMEND_PROMPT)
         # 질문 유형별로 프롬프트 선택 (미리 만들어둠. prompts.py)
 
-        retriever = self.vectorstore.as_retriever(search_kwargs={"k": 10})
+        retriever = self.vectorstore.as_retriever(search_kwargs={"k": 5}) #강의 개수 검색 줄임
         #벡터db에서 유사한 강의 계획서 검색 (일단 10개정도)
 
         return ConversationalRetrievalChain.from_llm(
