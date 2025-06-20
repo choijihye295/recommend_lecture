@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doc version="1.0" pagecount="2"                  docname="" fontRevision="1" daemonid="" enableNoPage="true">
+<DocProperty width="595" height="842" margintop="58" marginbottom="28" marginleft="44" marginright="43" pagesize="A4" orientation="Portrait" language="Korean" />
+<Fontobj id="0_0" name="굴림체" style="0" size="9" />
+<Fontobj id="1_0" name="돋움" style="1" size="12" />
+<Fontobj id="2_0" name="돋움" style="0" size="8" />
+<Fontobj id="3_0" name="굴림" style="0" size="7" />
+<Fontobj id="4_0" name="돋움" style="1" size="8" />
+<Fontobj id="5_0" name="굴림체" style="1" size="8" />
+<Fontobj id="6_0" name="굴림체" style="0" size="8" />
+<Fontobj id="7_0" name="굴림" style="0" size="8" />
+<Fontobj id="8_0" name="돋움" style="1" size="7" />
+<Fontobj id="9_0" name="돋움" style="0" size="7" />
+<Fontobj id="10_0" name="굴림" style="1" size="8" />
+<Fontobj id="11_0" name="굴림체" style="0" size="7" />
+<Lineobj id="0_0" type="-1" thickness="1" colorid="0_0" />
+<Lineobj id="1_0" type="0" thickness="1" colorid="0_0" />
+<Lineobj id="2_0" type="2" thickness="1" colorid="0_0" />
+<Colorobj id="0_0" color="000000" />
+<Colorobj id="1_0" color="ffffff" />
+<Colorobj id="2_0" color="e7e7e7" />
+<Colorobj id="3_0" color="e5e5e5" />
+<Borderobj id="0_0" top="0_0" bottom="0_0" left="0_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="1_0" top="1_0" bottom="1_0" left="1_0" right="1_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="2_0" top="1_0" bottom="1_0" left="0_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="3_0" top="1_0" bottom="1_0" left="1_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="4_0" top="1_0" bottom="0_0" left="0_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="5_0" top="1_0" bottom="0_0" left="0_0" right="1_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="6_0" top="0_0" bottom="1_0" left="1_0" right="1_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="7_0" top="0_0" bottom="0_0" left="1_0" right="1_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="8_0" top="1_0" bottom="0_0" left="1_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="9_0" top="0_0" bottom="0_0" left="0_0" right="1_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="10_0" top="0_0" bottom="2_0" left="0_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Borderobj id="11_0" top="1_0" bottom="2_0" left="0_0" right="0_0" diagonaldown="0_0" diagonalup="0_0" />
+<Page pagenum="1" masterflag="0" mastertitle="">
+<Fontid>0_0</Fontid>
+<Fontid>1_0</Fontid>
+<Fontid>2_0</Fontid>
+<Fontid>3_0</Fontid>
+<Fontid>4_0</Fontid>
+<Fontid>5_0</Fontid>
+<Fontid>6_0</Fontid>
+<Fontid>7_0</Fontid>
+<Fontid>8_0</Fontid>
+<Fontid>9_0</Fontid>
+<Fontid>10_0</Fontid>
+<Fontid>11_0</Fontid>
+<Lineid>0_0</Lineid>
+<Lineid>1_0</Lineid>
+<Lineid>2_0</Lineid>
+<Colorid>0_0</Colorid>
+<Colorid>1_0</Colorid>
+<Colorid>2_0</Colorid>
+<Colorid>3_0</Colorid>
+<Borderid>0_0</Borderid>
+<Borderid>1_0</Borderid>
+<Borderid>2_0</Borderid>
+<Borderid>3_0</Borderid>
+<Borderid>4_0</Borderid>
+<Borderid>5_0</Borderid>
+<Borderid>6_0</Borderid>
+<Borderid>7_0</Borderid>
+<Borderid>8_0</Borderid>
+<Borderid>9_0</Borderid>
+<Borderid>10_0</Borderid>
+<Borderid>11_0</Borderid>
+<Item classname="UbiTextItem" id="CELL293" x="0" y="736" width="508" height="20" compid="COMP1" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="0_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >1 / 2</Text>
+</Item>
+<Item classname="UbiTextItem" id="TEXT8" x="0" y="0" width="508" height="35" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="1_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >전북대학교 강의계획서 (2025년 1학기)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4179" x="0" y="63" width="50" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >교과목 코드</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4180" x="305" y="63" width="55" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > E-mail</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4181" x="360" y="63" width="148" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > dlee462@jbnu.ac.kr</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4182" x="50" y="77" width="120" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >전공선택</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4183" x="305" y="77" width="55" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 연구실</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4184" x="360" y="77" width="148" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4185" x="305" y="35" width="55" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 담당교수명</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4186" x="305" y="49" width="55" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 연락처</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4187" x="360" y="35" width="148" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4188" x="360" y="49" width="148" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >270-2373</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4189" x="210" y="35" width="95" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >4</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4190" x="210" y="49" width="95" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >3</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4191" x="50" y="63" width="120" height="14" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >0000123992</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4192" x="170" y="49" width="40" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >학점</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4193" x="170" y="35" width="40" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >분반</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4194" x="0" y="77" width="50" height="14" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >교과목 구분</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4195" x="0" y="35" width="50" height="28" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >교과목명</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4196" x="50" y="35" width="120" height="28" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >기계시스템공학실험 1</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4197" x="0" y="91" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="3_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >학과/학년</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4198" x="50" y="91" width="120" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >기계시스템 3,기계시스템(응용기계) 3,기계시스템(정밀기계) 3</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4199" x="305" y="91" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 상담가능시간</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4200" x="360" y="91" width="148" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4201" x="0" y="106" width="508" height="16" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="4_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="2_0" marginleft="2" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >1. 강의 기본정보</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4202" x="170" y="91" width="40" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >강의실</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4203" x="210" y="91" width="95" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >전주:공과대학 8호관 208 </Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4204" x="170" y="63" width="40" height="28" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >요일/시간</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4205" x="210" y="63" width="95" height="28" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수 7-A,수 7-B,목 10-A,목 10-B,금 6-A,금 6-B,금 7-A,금 7-B,금 11-A,금 11-B,</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4206" x="0" y="122" width="55" height="20" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업목표</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4207" x="55" y="122" width="453" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="1" marginbottom="1" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >기계시스템공학 분야 전반에 걸친 관련 이론에 대한 이해를 관련 실험을 통해 보다 심도있게 이해시키고 산업현장에 직접적으로 적용될 수 있는 실무실험 능력을 배양함을 목표로 한다. </Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4208" x="0" y="172" width="508" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="5_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >6대 핵심역량과의 관계</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4209" x="0" y="142" width="55" height="30" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >직전강의평가
+및
+CQI반영사항</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4210" x="55" y="142" width="453" height="30" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="1" marginbottom="1" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >책상 등 공간이 협소함을 개선함</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4211" x="0" y="187" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >구분</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4212" x="55" y="187" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >소통역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4213" x="105" y="187" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >창의역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4214" x="155" y="187" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >인성역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4215" x="205" y="187" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >실무역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4216" x="255" y="187" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >도전역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4217" x="305" y="187" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >문화역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4218" x="355" y="187" width="45" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >합계</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4219" x="400" y="187" width="108" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >대표역량</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4220" x="0" y="202" width="55" height="20" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="6_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >비율(%)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4221" x="55" y="202" width="50" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >20</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4222" x="105" y="202" width="50" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >10</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4223" x="155" y="202" width="50" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >10</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4224" x="205" y="202" width="50" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >50</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4225" x="255" y="202" width="50" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >10</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4226" x="305" y="202" width="50" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >0</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4227" x="355" y="202" width="45" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >100</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4228" x="400" y="202" width="108" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4229" x="0" y="222" width="55" height="20" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >교과목간의
+연계성</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4230" x="55" y="222" width="453" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="1" marginbottom="1" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4231" x="0" y="242" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >주교재</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4232" x="55" y="242" width="453" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4233" x="0" y="257" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >저자</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4234" x="0" y="272" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >참고자료</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4235" x="55" y="272" width="453" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="1" marginbottom="1" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4236" x="55" y="257" width="156" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4237" x="211" y="257" width="52" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >출판사</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4238" x="263" y="257" width="150" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4239" x="413" y="257" width="45" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >출판년도</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4240" x="458" y="257" width="50" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4241" x="0" y="287" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >교재언어</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4242" x="0" y="302" width="70" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >권장 선수과목</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4247" x="55" y="287" width="100" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4248" x="155" y="287" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >강의언어</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4249" x="210" y="287" width="100" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >한국어</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4250" x="310" y="287" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >필요 기자재</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4251" x="365" y="287" width="143" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4252" x="70" y="302" width="190" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4253" x="260" y="302" width="70" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="7_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >권장 후수과목</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4254" x="330" y="302" width="178" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >DA</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4255" x="0" y="317" width="55" height="30" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업방식
+(복수가능√)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4256" x="55" y="317" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >강의</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4257" x="119" y="317" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >발표/토론</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4258" x="183" y="317" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >PBL</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4259" x="247" y="317" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >플립러닝</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4260" x="311" y="317" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >LMS활용</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4261" x="375" y="317" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >실험실습</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4262" x="439" y="317" width="69" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >기타</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4263" x="55" y="332" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >√</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4264" x="119" y="332" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4265" x="183" y="332" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4266" x="247" y="332" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4267" x="311" y="332" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4268" x="375" y="332" width="64" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >√</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4269" x="439" y="332" width="69" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="8_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4329" x="0" y="347" width="55" height="30" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업운영방향</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4330" x="55" y="347" width="453" height="30" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4053" x="0" y="377" width="55" height="30" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >평가계획
+(100%)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4054" x="55" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >중간</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4055" x="111" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >기말</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4056" x="167" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >출석</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4057" x="223" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >과제물</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4058" x="279" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >안전교육</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4059" x="335" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >발표/토론</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4060" x="391" y="377" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업태도</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4061" x="447" y="377" width="61" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >기타</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4062" x="55" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >0%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4063" x="111" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >0%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4064" x="167" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >10%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4065" x="223" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >0%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4066" x="279" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >5%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4067" x="335" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4068" x="391" y="392" width="56" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >15%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4069" x="447" y="392" width="61" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4070" x="0" y="407" width="55" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >평가참고사항</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4071" x="55" y="407" width="453" height="15" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="9_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4072" x="0" y="422" width="55" height="41" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >평가방법</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4073" x="171" y="422" width="52" height="11" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >A(%)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4074" x="223" y="422" width="112" height="11" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >A+B(%)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4075" x="335" y="422" width="83" height="11" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >C이하(%)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4076" x="418" y="422" width="90" height="11" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >총비율</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4077" x="171" y="433" width="52" height="12" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >0</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4078" x="223" y="433" width="112" height="12" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >0</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4079" x="335" y="433" width="83" height="12" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="Number" htmlcodeproc="0" iswordwrap="0" >0</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4080" x="418" y="433" width="90" height="12" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >100%</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4081" x="111" y="445" width="60" height="18" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >절대평가 기준</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4082" x="111" y="422" width="60" height="23" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >상대평가 비율</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4087" x="171" y="445" width="337" height="18" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="3_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >실험실습 교과목</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4328" x="55" y="422" width="56" height="41" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="3_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >절대평가</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4270" x="55" y="478" width="60" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >- 강의</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4271" x="115" y="478" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4272" x="250" y="478" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >√</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4273" x="55" y="498" width="60" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4274" x="115" y="498" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4275" x="132" y="498" width="38" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 기타 :</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4276" x="55" y="521" width="60" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >- 과제</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4277" x="115" y="521" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >√</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4278" x="250" y="521" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4279" x="55" y="463" width="453" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="4_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > * 장애학생 교수학습지원 사항</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4280" x="55" y="544" width="60" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >- 평가</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4281" x="55" y="564" width="60" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4282" x="55" y="584" width="60" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4283" x="115" y="544" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4284" x="115" y="564" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >√</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4285" x="115" y="584" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4286" x="132" y="584" width="38" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 기타 :</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4287" x="250" y="544" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4288" x="250" y="564" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4289" x="0" y="463" width="55" height="187" compid="COMP2" forecolorid="0_0" backcolorid="3_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >참고
+사항</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4290" x="132" y="478" width="118" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 강의 파일, 자료 등 제공</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4291" x="267" y="478" width="241" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="4_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="5_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 좌석배치(지정좌석) 조정</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4292" x="55" y="518" width="453" height="3" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="6_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4293" x="55" y="541" width="453" height="3" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="6_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4294" x="55" y="604" width="453" height="3" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="7_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4295" x="55" y="627" width="453" height="3" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="7_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4296" x="132" y="521" width="118" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="4_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 과제 제출기한 연장</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4297" x="267" y="521" width="241" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="5_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 대안적 과제 제시</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4298" x="132" y="544" width="118" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 시험시간 연장</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4299" x="132" y="564" width="118" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="4_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="0_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 별도의 시험 장소 제공</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4300" x="267" y="544" width="241" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="5_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 평가방법 조정(대독, 구두응답, 도우미 대필 답안작성 등)</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4301" x="55" y="630" width="453" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > ※ 위 지원사항 등을 포함한 강의, 과제, 시험 등 학습과정에서 장애로 인하여 추가 지원이
+     필요한 경우 개강전 담당강사 및 장애학습 지원센터를 통해 문의 바랍니다.</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4302" x="55" y="607" width="40" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="8_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4303" x="95" y="607" width="17" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="10_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4304" x="112" y="607" width="147" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="4_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" > 그 외(필요시 자유로이 추가 기술) :</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4305" x="267" y="564" width="241" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="9_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4306" x="170" y="584" width="323" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="7_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="10_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4307" x="493" y="584" width="15" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="9_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4308" x="170" y="498" width="323" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="7_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="10_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4309" x="493" y="498" width="15" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="9_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4310" x="259" y="607" width="240" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="7_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="11_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4311" x="499" y="607" width="9" height="20" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="5_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4312" x="0" y="665" width="20" height="25" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >주별</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4313" x="20" y="665" width="150" height="25" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업목표</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4314" x="170" y="665" width="130" height="25" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업내용</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4315" x="300" y="665" width="70" height="25" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업방식</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4316" x="0" y="650" width="508" height="15" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="4_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >주별 강의내용</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4317" x="370" y="665" width="70" height="25" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >자료, 과제 및
+기타 참고사항</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4318" x="440" y="677" width="34" height="13" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >온라인</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4319" x="474" y="677" width="34" height="13" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >오프라인</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4320" x="440" y="665" width="68" height="12" compid="COMP2" forecolorid="0_0" backcolorid="2_0" transparent="0" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="2_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >수업방식별시간</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4321" x="0" y="690" width="20" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >1주</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4322" x="20" y="690" width="150" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >강의 개요설명 사전이해도 평가 / 
+조편성 및 실험보고서 작성법</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4323" x="170" y="690" width="130" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" >강의</Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4324" x="300" y="690" width="70" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4325" x="370" y="690" width="70" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="0" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="1" marginright="1" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4326" x="440" y="690" width="28" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+<Item classname="UbiTextItem" id="CELL4327" x="468" y="690" width="40" height="29" compid="COMP2" forecolorid="0_0" backcolorid="1_0" transparent="1" iseditable="0" ispreview="1" isprint="1" linked="0" linkfilename="" linkarg="" linkstyle="REPORT" istableitem="0" isvoiceye="0" voiceyetitle="" >
+<Text fontid="11_0" halign="1" valign="1" underlined="0" strike="0" textdirection="1" textdirection2="0" border="1_0" marginleft="0" marginright="0" margintop="0" marginbottom="0" linespace="0" valuetype="String" htmlcodeproc="0" iswordwrap="0" ></Text>
+</Item>
+</Page>
+</Doc>
