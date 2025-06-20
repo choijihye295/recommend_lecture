@@ -130,6 +130,11 @@ class Query(BaseModel):
     question: str
     chat_history: list = []
 
+@app.get("/")
+def read_root():
+    return {"message": "FastAPI 서버가 실행 중입니다."}
+
+
 @app.post("/api/recommend")
 async def recommend_courses(query: Query):
     try:
