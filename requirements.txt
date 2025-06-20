@@ -1,11 +1,16 @@
-flask
+fastapi
+uvicorn
 sqlalchemy
 pandas
-python-dotenv
 openai
-langchain
-langchain_community
-streamlit
-beautifulsoup4
+python-dotenv
 requests
-uvicorn
+beautifulsoup4
+chromadb
+langchain
+langchain-community
+langchain-openai
+pydantic
+
+# UI용 (선택적)
+# streamlit
