@@ -102,7 +102,7 @@ if st.button("추천 받기", type="primary"):
                 #api_url = "http://localhost:8001/api/recommend"
                 #api_url = "https://recommend-lecture.onrender.com/api/recommend"
                 #api_url = "https://recommend-lecture-qfo0.onrender.com/api/recommend"
-                api_url = "https://happy-transformation-production.up.railway.app/api/recommend"
+                api_url = "https://happy-transformation.up.railway.app/api/recommend"
 
                 st.info(f"API 서버에 요청 중... ({api_url})")
                 
