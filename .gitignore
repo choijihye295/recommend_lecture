@@ -43,6 +43,7 @@ Thumbs.db
 # Project specific
 *.log
 .env
+chroma_db/
 
 # Python
 __pycache__/
