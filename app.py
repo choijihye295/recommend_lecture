@@ -106,7 +106,7 @@ if st.button("추천 받기", type="primary"):
                 response = requests.post(
                     api_url,
                     json={"question": query, "chat_history": []},
-                    timeout=30  # 타임아웃 설정
+                    timeout=60  # 타임아웃 설정 늘림
                 )
                 
                 if response.status_code == 200:
