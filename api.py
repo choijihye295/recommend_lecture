@@ -114,7 +114,7 @@ try:
             search_type="similarity",
             search_kwargs={
                 "k": 10,  # 검색 결과 수 증가
-                "score_threshold": 0.7,  # 유사도 임계값 설정
+                "score_threshold": 0.75,  # 유사도 임계값 설정
                 "filter": None  # 필요한 경우 필터 추가
             }
         ),
