@@ -113,7 +113,7 @@ try:
         retriever=vectorstore.as_retriever(
             search_type="similarity",
             search_kwargs={
-                "k": 10,  # 검색 결과 수 증가
+                "k": 5,  # 검색 결과 수 증가 (10>5)
                 "score_threshold": 0.75,  # 유사도 임계값 설정
                 "filter": None  # 필요한 경우 필터 추가
             }
